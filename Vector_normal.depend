@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584388613 source:e:\structuri de date\vector_normal\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<cstdlib>
+
